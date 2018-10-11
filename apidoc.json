@@ -1,0 +1,10 @@
+{
+  "name": "{name}",
+  "version": "0.1.0",
+  "description": "{description}",
+  "apidoc":{
+    "title": "laravel5 API文档",
+    "url" : "localhost:8000/api/doc"
+  }
+
+}
